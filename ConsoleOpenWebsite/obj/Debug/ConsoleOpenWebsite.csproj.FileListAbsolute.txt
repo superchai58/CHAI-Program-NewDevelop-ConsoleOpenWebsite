@@ -1,0 +1,5 @@
+D:\Project\QMB\ConsoleOpenWebsite\ConsoleOpenWebsite\bin\Debug\ConsoleOpenWebsite.exe.config
+D:\Project\QMB\ConsoleOpenWebsite\ConsoleOpenWebsite\bin\Debug\ConsoleOpenWebsite.exe
+D:\Project\QMB\ConsoleOpenWebsite\ConsoleOpenWebsite\bin\Debug\ConsoleOpenWebsite.pdb
+D:\Project\QMB\ConsoleOpenWebsite\ConsoleOpenWebsite\obj\Debug\ConsoleOpenWebsite.exe
+D:\Project\QMB\ConsoleOpenWebsite\ConsoleOpenWebsite\obj\Debug\ConsoleOpenWebsite.pdb
